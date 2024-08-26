@@ -257,7 +257,7 @@
     margin-top: 3.125rem;
   }
   
-  /* Media Queries */
+   /* Media Queries  */
   @media (max-width: 768px) {
     .search-container {
       flex-direction: column;
