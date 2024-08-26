@@ -286,7 +286,7 @@
   
   @media (max-width: 480px) {
     h1 {
-      font-size: 4rem; /* Adjust for very small screens */
+      font-size: 4rem; 
     }
   
     .search-box {
